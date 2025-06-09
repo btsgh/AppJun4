@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "684022361b9e7e0aa725fe6f_05f27b6e-c77c-4aae-92d0-216aaf965940",
+  "id": "Page2_QueryJs1",
+  "moduleUUID": "d9c8a1a5-9989-4a29-851e-22876284c7a7",
+  "packageUUID": "b24f2a6e-ab36-4d92-8c52-15896f658793",
+  "type": "UI_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "QueryJs1",
+    "pageId": "Page2",
+    "version": "v0.1.0",
+    "widgetId": "dydq8bcdhi"
+  }
+}
