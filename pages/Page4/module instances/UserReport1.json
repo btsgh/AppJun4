@@ -1,22 +1,14 @@
 {
-  "gitSyncId": "684022361b9e7e0aa725fe6f_fe5a61d8-d9a7-4b33-b802-dce50844514b",
-  "id": "Page1_UserReport1",
+  "gitSyncId": "6846968492d8026473d68c2d_dcad1ee0-d06f-42ea-b316-61ca1aec0fd0",
+  "id": "Page4_UserReport1",
   "moduleUUID": "d6d49bf7-3c55-4658-a793-0b684464bb21",
   "packageUUID": "b24f2a6e-ab36-4d92-8c52-15896f658793",
   "type": "UI_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "dynamicBindingPathList": [
-      {
-        "key": "country"
-      },
-      {
-        "key": "limit"
-      }
-    ],
     "inputs": {
-      "country": "{{countryDropdown.selectedOptionValue}}",
-      "limit": "{{Limit.text}}"
+      "country": "United States",
+      "limit": "10"
     },
     "moduleInputs": {
       "gtrqxyxlil": {
@@ -35,8 +27,8 @@
       }
     },
     "name": "UserReport1",
-    "pageId": "Page1",
+    "pageId": "Page4",
     "version": "v0.2.0",
-    "widgetId": "161bgsayqm"
+    "widgetId": "53g3b53576"
   }
 }
